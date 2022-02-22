@@ -55,7 +55,7 @@ body {
 .wide-90 { padding-top: 100px; padding-bottom: 90px; }
 .wide-80 { padding-top: 100px; padding-bottom: 80px; }
 .wide-70 { padding-top: 100px; padding-bottom: 70px; }
-.wide-60 { padding-top: 100px; padding-bottom: 60px; }
+.wide-60 { padding-top: 50px; padding-bottom: 60px; }
 .wide-50 { padding-top: 100px; padding-bottom: 50px; }
 .wide-40 { padding-top: 100px; padding-bottom: 40px; }
 .wide-30 { padding-top: 100px; padding-bottom: 30px; }
@@ -417,7 +417,7 @@ body {
   background-attachment: fixed!important;
 }
 
-.bg-01 { background-image: url(../images/videobg.jpg); }
+.bg-01 { background-image: url(../images/tralierback.png); }
 .bg-02 { background-image: url(../images/bg-02.jpg); }
 .bg-03 { background-image: url(../images/bg-03.jpg); }
 .bg-04 { background-image: url(../images/bg-04.jpg); }
@@ -4042,8 +4042,8 @@ p.terms-txt a,
 .cb-holder {
   background-color: #fff;
   border: 1px solid #f5f6f6;
-  padding: 50px 40px;
-  margin: 0 12% 40px;
+  padding: 50px 40px 0;
+  margin: 0 12% ;
   z-index: 1;
   -webkit-border-radius: 16px;
   -moz-border-radius: 16px;
@@ -6140,7 +6140,7 @@ h5.posts-category {
 
 .contact-form .form-control,
 .contact-form .form-select {
-  height: 60px;
+  height: 40px;
   background-color: #fff;
   border: 1px solid #ccc;
   box-shadow: 0 0 0 0;
@@ -6235,7 +6235,7 @@ h5.posts-category {
   =========================================================================== */
 
 .footer {
-  padding-top: 100px;
+  padding-top: 0;
   padding-bottom: 30px;
 }
 
@@ -6407,7 +6407,7 @@ img.footer-logo {
 /*------------------------------------------*/
 
 .bottom-footer {
-  padding-top: 30px;
+  padding-top: 0;
 }
 
 .footer hr {
