@@ -6235,8 +6235,8 @@ h5.posts-category {
   =========================================================================== */
 
 .footer {
-  padding-top: 0;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .footer-info p {
